@@ -1,0 +1,6 @@
+[submodule "Packages/com.zorro.core"]
+	path = Packages/com.zorro.core
+	url = https://github.com/ZorroAccess/Zorro.Core
+[submodule "Packages/com.zorro.framework"]
+	path = Packages/com.zorro.framework
+	url = https://github.com/ZorroAccess/Zorro.Framework
