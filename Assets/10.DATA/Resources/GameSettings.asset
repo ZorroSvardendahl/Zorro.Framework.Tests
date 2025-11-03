@@ -23,3 +23,26 @@ MonoBehaviour:
     SerializationNodes: []
   GameClass:
     classRef: Zorro.TestGame.TestGame, Assembly-CSharp
+  PlayerClass:
+    classRef: Zorro.TestGame.TestPlayer, Assembly-CSharp
+  IsNetworkedGame: 1
+  NetworkProviderClass:
+    classRef: Zorro.Framework.Photon.PhotonNetworkProvider, Zorro.Framework.Photon.Runtime
+  PhotonAppSettings:
+    AppIdRealtime: d09fbb47-20f6-4ab5-8c66-11b411c5fd50
+    AppIdFusion: 
+    AppIdQuantum: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 2
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+    ClientLogging: 2
